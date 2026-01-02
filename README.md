@@ -6,7 +6,7 @@
 
 A comprehensive, automated desktop organization tool built with Python. This application goes beyond simple file sorting by using Optical Character Recognition (OCR) to "read" the contents of your files and group them by context, all wrapped in a professional, dark-mode GUI.
 
-*(**Pro Tip:** Take a screenshot of your app with the "SystemCare" sidebar visible and paste it here!)*
+<img width="899" height="598" alt="image" src="https://github.com/user-attachments/assets/e5adfcf1-b2d5-46b0-952a-885c563c56cc" />
 
 ---
 
