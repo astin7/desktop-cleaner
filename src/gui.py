@@ -52,7 +52,7 @@ class MainWindow(QMainWindow):
         sidebar_layout.setContentsMargins(0, 20, 0, 20)
         sidebar_layout.setSpacing(10)
 
-        title_label = QLabel("Advanced\nSystemCare\nV14 Pro")
+        title_label = QLabel("Desktop Cleaner\nV1")
         title_label.setObjectName("sidebarTitle")
         title_label.setAlignment(Qt.AlignCenter)
         sidebar_layout.addWidget(title_label)
