@@ -1,0 +1,10 @@
+PySide6
+Pillow
+plyer
+pathlib
+watchdog
+mutagen
+python-magic-bin; sys_platform == 'win32'
+python-magic; sys_platform != 'win32'
+tesseract
+psutil
