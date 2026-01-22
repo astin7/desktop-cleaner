@@ -1,4 +1,4 @@
-# 🤖 AI Desktop Cleaner (Pro)
+# Desktop Cleaner
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6%20(Qt)-green.svg)](https://doc.qt.io/qtforpython/)
